@@ -1,0 +1,1 @@
+int showmsg(void);
